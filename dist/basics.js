@@ -11,3 +11,8 @@ var Role;
     Role[Role["Viewer"] = 2] = "Viewer";
 })(Role || (Role = {}));
 let adminRole = Role.Admin;
+let input;
+input = "hello";
+input = 30;
+let direction;
+direction = "up";
